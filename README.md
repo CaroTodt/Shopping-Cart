@@ -1,8 +1,8 @@
-"# Shopping-Cart" 
+# Shopping-Cart 
 
 Web site with shopping cart.
 
-To create this web we use:
+## Technologies used to create the web
 * Material UI
 * React
 * Typescript
